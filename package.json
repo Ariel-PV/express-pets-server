@@ -1,0 +1,26 @@
+{
+  "name": "pets",
+  "version": "1.0.0",
+  "description": "adoption site for pets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edWAR6/Node.js-Express-Pets-Server.git"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "Ariel Poveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edWAR6/Node.js-Express-Pets-Server/issues"
+  },
+  "homepage": "https://github.com/edWAR6/Node.js-Express-Pets-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
